@@ -1,14 +1,16 @@
 .baner{
-    width: 60%;
+    width: 30%;
     margin: auto;
     display: block;
      }
-     
+
 .texto{
     text-align: center;
     margin: 23px;
 }
 
 .trator{
-    display: flex;
+     width: 30%;
+  margin: auto;
+  display: block;
 }
