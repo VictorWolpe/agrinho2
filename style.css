@@ -1,6 +1,10 @@
 .baner{
-    justify-content: center;
+    display: flex;
 }
 .texto{
     text-align: center;
+}
+
+.trator{
+    display: flex;
 }
